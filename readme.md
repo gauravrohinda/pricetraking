@@ -13,4 +13,4 @@ pip freeze > requirements.txt
 
 
 Press Ctrl + Shift + P → type "Python: Restart Language Server" → Enter.
-python track.py
+python main.py
